@@ -43,4 +43,6 @@ Projeto desenvolvido como parte do desafio do bootcamp na **DIO (Digital Innovat
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/Desafio-sistema-bancario-python.git](https://github.com/SEU_USUARIO/Desafio-sistema-bancario-python.git)
+   git clone [https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git](https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git)
+
+
