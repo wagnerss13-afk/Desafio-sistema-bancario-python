@@ -45,4 +45,43 @@ Projeto desenvolvido como parte do desafio do bootcamp na **DIO (Digital Innovat
    ```bash
    git clone [https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git](https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git)
 
+   # DIO | Otimizando o Sistema Bancário com Python
+
+[![DIO](https://img.shields.io/badge/DIO-Bootcamp-orange?style=for-the-badge&logo=github)](https://dio.me)
+[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
+
+---
+
+## 📌 Sobre o Projeto
+
+Este projeto faz parte dos desafios práticos da **[DIO (Digital Innovation One)](https://dio.me)**, evoluindo o sistema bancário procedural em Python. O código foi expandido com modularização por funções estritas (`/` e `*`), adição de novos serviços bancários modernos e rastreabilidade total das operações.
+
+> *"Codifique o seu futuro global agora."*
+
+---
+
+## 🚀 Novas Funcionalidades e Melhorias
+
+- **Serviço de PIX (`[p]`):** Permite realizar transferências (enviar) e recebimentos utilizando chaves PIX integradas ao saldo e ao cheque especial.
+- **Cheque Especial:** Concede limite de crédito adicional automático quando o saldo fica negativo, exibindo relatórios detalhados do uso e do limite restante.
+- **Extrato Detalhado com Timestamp:** Todas as transações (Depósitos, Saques e PIX) registram automaticamente a data e a hora exata da operação.
+- **Gestão de Usuários e Contas:** Cadastro completo de clientes por CPF único e abertura de contas correntes vinculadas à agência padrão `0001`.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** Python 3.x
+- **Biblioteca nativa:** `textwrap`, `datetime`
+- **Controle de Versão:** Git & GitHub Desktop
+
+---
+
+## ⚙️ Como Executar o Projeto
+
+1. **Clone este repositório:**
+   ```bash
+   git clone [https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git](https://github.com/wagnerss13-afk/Desafio-sistema-bancario-python.git)
+
 
